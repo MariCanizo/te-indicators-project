@@ -1,0 +1,42 @@
+[
+  {
+    "country": "United States",
+    "slug": "united-states"
+  },
+  {
+    "country": "United Kingdom",
+    "slug": "united-kingdom"
+  },
+  {
+    "country": "Singapore",
+    "slug": "singapore"
+  },
+  {
+    "country": "United Arab Emirates",
+    "slug": "united-arab-emirates"
+  },
+  {
+    "country": "Germany",
+    "slug": "germany"
+  },
+  {
+    "country": "Switzerland",
+    "slug": "switzerland"
+  },
+  {
+    "country": "Canada",
+    "slug": "canada"
+  },
+  {
+    "country": "France",
+    "slug": "france"
+  },
+  {
+    "country": "Netherlands",
+    "slug": "netherlands"
+  },
+  {
+    "country": "Spain",
+    "slug": "spain"
+  }
+]
